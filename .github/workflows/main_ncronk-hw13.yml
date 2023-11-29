@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'ncronk-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82BC8D742EEE4B49BECB556AF2124475 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_155214161A5C4090A36281CD7082E382 }}
